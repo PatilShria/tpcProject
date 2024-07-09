@@ -12,23 +12,8 @@ Features.
 
 Result:
 
-Ash is battling Misty!
+![image](https://github.com/PatilShria/tpcproject/assets/168672551/4f21b3e7-211d-4e7c-9408-84663f297538)
 
-Charmander used Quick Attack!
-
-Squirtle took 27 damage! Current health: 73
-
-Squirtle used Quick Attack!
-
-Charmander took 45 damage! Current health: 55
-
-Charmander used Flame Thrower!
-
-Squirtle took 77 damage! Current health: -4
-
-Squirtle fainted!
-
-Ash won the battle!
 
 
 #Customer Segmentation System
