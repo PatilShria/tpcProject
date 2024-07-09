@@ -12,6 +12,7 @@ Features.
 
 
 #Customer Segmentation System
+
 Using the mall customer dataset and conducting k-means clustering to partition consumers in the form of optimum clusters.
 
 
