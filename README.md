@@ -11,14 +11,23 @@ Features.
 - Use Pokéballs to catch wild Pokémon.
 
 Result:
+
 Ash is battling Misty!
+
 Charmander used Quick Attack!
+
 Squirtle took 27 damage! Current health: 73
+
 Squirtle used Quick Attack!
+
 Charmander took 45 damage! Current health: 55
+
 Charmander used Flame Thrower!
+
 Squirtle took 77 damage! Current health: -4
+
 Squirtle fainted!
+
 Ash won the battle!
 
 
